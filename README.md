@@ -1,5 +1,4 @@
 docker-py
-
 =========
 
 [![Build Status](https://travis-ci.org/dotcloud/docker-py.png)](https://travis-ci.org/dotcloud/docker-py)
